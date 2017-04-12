@@ -8,7 +8,7 @@
 
 ``` bash
 git clone https://github.com/blueluu/test-resume.git
-cd animating-resume
+cd resume3
 npm install
 npm run dev
 ```
